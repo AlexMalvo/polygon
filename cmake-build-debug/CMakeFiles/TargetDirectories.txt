@@ -1,3 +1,0 @@
-C:/Users/227ad/CLionProjects/LAB4_sorting_algorithms/cmake-build-debug/CMakeFiles/LAB4_sorting_algorithms.dir
-C:/Users/227ad/CLionProjects/LAB4_sorting_algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/227ad/CLionProjects/LAB4_sorting_algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

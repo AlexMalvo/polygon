@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2024.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\227ad\CLionProjects\LAB4_sorting_algorithms -B C:\Users\227ad\CLionProjects\LAB4_sorting_algorithms\cmake-build-debug
+CMake Error at src/CMakeLists.txt:13 (target_link_libraries):
+  Cannot specify link libraries for target "your_target_name" which is not
+  built by this project.
+
+
+-- Configuring incomplete, errors occurred!
